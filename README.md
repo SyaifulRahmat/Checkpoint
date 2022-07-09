@@ -18,5 +18,6 @@ $ git clone https://github.com/SyaifulRahmat/Checkpoint
 ```
 #### Run script
 ```bash
+$ cd Checkpoint
 $ python cp.py
 ```
