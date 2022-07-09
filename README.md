@@ -1,4 +1,4 @@
- srimbf
+ SCRIPT CHECKPOINT DETECTOR
 
 <h1 align="center">
   CHECKPOINT DETECTOR
